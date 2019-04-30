@@ -1,4 +1,7 @@
 # CrudApp
+- git config user.name ""
+- git config user.email ""
+- npm i @angular/cli -g
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.8.
 
